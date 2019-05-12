@@ -10,3 +10,6 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记引言](https://www.jianshu.com/p/0421920c4956 "鼠标悬停显示")
 <br>
+<br>
+[《Java编程的逻辑笔记1》--数据和变量](https://www.jianshu.com/p/5438be4dec30 "鼠标悬停显示")
+<br>
