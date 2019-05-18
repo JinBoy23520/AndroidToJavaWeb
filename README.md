@@ -16,4 +16,7 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记2--赋值](https://www.jianshu.com/p/1ad325b0260a "鼠标悬停显示")
 <br>
+<br>
+[《Java编程的逻辑》笔记3--基本运算](https://www.jianshu.com/p/6afddc4750ce "鼠标悬停显示")
+<br>
 
