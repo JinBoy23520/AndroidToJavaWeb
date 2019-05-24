@@ -19,4 +19,7 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记3--基本运算](https://www.jianshu.com/p/6afddc4750ce "鼠标悬停显示")
 <br>
+<br>
+[《Java编程的逻辑》笔记4--条件执行以及原理](https://www.jianshu.com/p/cce8c5c7446f "鼠标悬停显示")
+<br>
 
