@@ -25,4 +25,7 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记5-- 循环的本质](https://www.jianshu.com/p/36a9cb7eadef "鼠标悬停显示")
 <br>
+<br>
+[《Java编程的逻辑》笔记6--函数](https://www.jianshu.com/p/1d25bbb5fefc "鼠标悬停显示")
+<br>
 
