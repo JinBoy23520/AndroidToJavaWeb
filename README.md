@@ -28,4 +28,38 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记6--函数](https://www.jianshu.com/p/1d25bbb5fefc "鼠标悬停显示")
 <br>
+<br>
+[《Java编程的逻辑》笔记7--函数调用基本原理](https://www.jianshu.com/p/74e59dbc3935 "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记8--整数的二进制表示与位运算](https://www.jianshu.com/p/f8228377f105 "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记9--小数的二进制表示](https://www.jianshu.com/p/64096d5ddc7e "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记10--字符的编码](https://www.jianshu.com/p/f1475164b2c1 "鼠标悬停显示")
+<br>
+
+<br>
+[《Java编程的逻辑》笔记11--乱码与char的真正含义](https://www.jianshu.com/p/30cda12d9f3a "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记12--类](https://www.jianshu.com/p/f607d7809904 "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记13--类的组合](https://www.jianshu.com/p/be2444d365f9 "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记14--代码的组织机制](https://www.jianshu.com/p/7d1dab8196de "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记15--初识继承和多态](https://www.jianshu.com/p/d6a812b89e8e "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记 16 - 继承的细节](https://www.jianshu.com/p/0fa9f1de0f7d "鼠标悬停显示")
+<br>
+<br>
+[《Java编程的逻辑》笔记 17 - 继承实现的基本原理](https://www.jianshu.com/p/038e6ad09586 "鼠标悬停显示")
+<br>
 
