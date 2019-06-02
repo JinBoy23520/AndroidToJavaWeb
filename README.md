@@ -40,7 +40,6 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记10--字符的编码](https://www.jianshu.com/p/f1475164b2c1 "鼠标悬停显示")
 <br>
-
 <br>
 [《Java编程的逻辑》笔记11--乱码与char的真正含义](https://www.jianshu.com/p/30cda12d9f3a "鼠标悬停显示")
 <br>
