@@ -61,4 +61,6 @@ Android转后台笔记
 <br>
 [《Java编程的逻辑》笔记 17 - 继承实现的基本原理](https://www.jianshu.com/p/038e6ad09586 "鼠标悬停显示")
 <br>
-
+<br>
+[《Java编程的逻辑》笔记 18 - 为什么说继承是把双刃剑](https://www.jianshu.com/p/b9c36c4d88cf "鼠标悬停显示")
+<br>
